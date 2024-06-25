@@ -11,7 +11,9 @@ The Online Retail data contains customer purchasing history. Including CustomerI
 			   3.Segment the customers based on their RFM scores using the dataset?
 			   Segments with RFM score range: 
 				 - Champions: RFM score range - R: 4-5, F: 4-5, M: 4-5 
+
 				 - Loyal customers: RFM score range - R: 3-5, F: 3-5, M: 3-5 
+
 				 - Potential loyalist: RFM score range - R: 4-5, F: 2-3, M: 2-3 
 				 - Recent customers: RFM score range - R: 4-5, F: 1-2, M: 1-2 
 				 - Promising: RFM score range - R: 4-5, F: 1-2, M: 1-2 
