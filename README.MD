@@ -7,8 +7,10 @@ The Online Retail data contains customer purchasing history. Including CustomerI
 **PROBLEM** : Only have basic customer data but want to know customer behaviour to plan marketing strategy accordingly.
 
 **QUESTION** : 1.How to understand customer behaviour to plan marketing strategy accordingly?
-			   2.Calculate the  a) recency (R), b)  frequency (F), c)  monetary value (M) for each customer based on the given dataset? 
-			   3.Segment the customers based on their RFM scores using the dataset?
+	       
+		2.Calculate the  a) recency (R), b)  frequency (F), c)  monetary value (M) for each customer based on the given dataset? 
+			   
+		3.Segment the customers based on their RFM scores using the dataset?
 			   Segments with RFM score range: 
 
 				 - Champions: RFM score range - R: 4-5, F: 4-5, M: 4-5 
