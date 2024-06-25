@@ -6,7 +6,8 @@ The Online Retail data contains customer purchasing history. Including CustomerI
 # Business Understanding
 **PROBLEM** : Only have basic customer data but want to know customer behaviour to plan marketing strategy accordingly.
 
-**QUESTION** : 1.How to understand customer behaviour to plan marketing strategy accordingly?
+**QUESTION** : 
+		1.How to understand customer behaviour to plan marketing strategy accordingly?
 	       
 		2.Calculate the  a) recency (R), b)  frequency (F), c)  monetary value (M) for each customer based on the given dataset? 
 			   
